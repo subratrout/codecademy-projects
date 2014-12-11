@@ -1,0 +1,167 @@
+html, body {
+  margin: 0;
+}
+
+h1, h2, a {
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.container {
+  width: 940px;
+  margin: 0 auto;
+}
+
+/* Main */
+.main {
+  height: 600px;
+  text-align: center;
+  background-image: url(http://s3.amazonaws.com/codecademy-content/projects/move/bg.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.main h1 {
+  font-size: 200px;
+}
+
+.main p {
+  font-size: 18px;
+  color: #fff;
+}
+
+.main a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 6px 20px;
+    background-color: #000;
+}
+
+
+/* Supporting */
+.supporting {
+  text-align: center;
+  padding: 50px 0 80px;
+  background-color: #1c1c1c;
+}
+
+.supporting .col {
+  float: left;
+  width: 30%;
+  padding: 10px;
+}
+
+.supporting h1,
+.supporting h2 {
+  color: #ffa800;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.supporting p {
+  color: #efefef;
+  margin-bottom: 20px;
+  line-height: 20px;
+}
+
+.supporting .btn {
+  background-color: #eee;
+  color: #1c1c1c;
+  font-size: 18px;
+  padding: 8px 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* Feature */
+.feature {
+  height: 600px;
+  background-image: url(http://s3.amazonaws.com/codecademy-content/projects/move/feature.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.feature h1,
+.feature h2 {
+  color: #fff;
+  font-size: 60px;
+  margin: 0;
+  padding:250px 0 0;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/* Premium */
+
+.premium {
+    text-align: center;
+    padding: 50px 0 80px;
+    background-color: #1c1c1c;
+}
+
+.premium h2 {
+    color: #ffa800;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.premium p {
+    font-size: 18px;
+    color: #fff;
+    margin-top: 0px;
+}
+
+.premium a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    padding: 6px 20px;
+    background-color: #fff;
+}
+
+/* Footer */
+.footer {
+  height: 600px;
+  text-align: center;
+  background-image: url(http://s3.amazonaws.com/codecademy-content/projects/move/footer.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.footer h1,
+.footer h2,
+.footer h3 {
+  color: #fff;
+  font-size: 40px;
+  margin: 0 0 20px 0;
+  padding:50px 0 0;
+  text-transform: uppercase;
+}
+
+.footer p {
+  color: #fff;
+  margin: 0 0 20px 0;
+  font-size: 18px;
+}
+
+.footer a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 6px 20px;
+    background-color: #000;
+}

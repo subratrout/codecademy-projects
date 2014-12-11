@@ -1,0 +1,134 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
+
+.container {
+  margin: 0 auto;
+  width: 940px;
+}
+
+
+/* Header */
+.header {
+  height: 800px;
+  text-align: center;
+  background-image: url(http://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/bg.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header .container {
+  position: relative;
+  top: 200px;
+}
+
+.header h1 {
+  font-size: 100px;
+  line-height: 100px;
+  margin-top: 0;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.header p {
+  font-weight: 500;
+  letter-spacing: 8px;
+  margin-bottom: 40px;
+  margin-top: 0;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.btn {
+    color: #fff;
+    text-decoration: none;
+    background-color: #000;
+    padding: 6px 20px;
+}
+
+.btn:hover {
+  background: #117bff;
+  cursor: pointer;
+  transition: background .5s;
+}
+
+
+/* Nav */
+
+.nav {
+    background-color: black;
+    height: 50px;
+}
+.nav ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 15px;
+  text-align: center;
+}
+.nav li {
+    display: inline;
+    padding: 40px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Main */
+.main .container {
+  margin: 80px auto;
+}
+
+.cloud-image {
+    float: left;
+    width: 33%;
+}
+
+.main img {
+    width: 160px;
+    margin: 50px;
+}
+
+/* Jumbotron */
+.jumbotron {
+  height: 600px;
+  text-align: right;
+  background-image: url(http://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/jumbotron_bg.jpg);
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron h2 {
+    color: #fff;
+}
+
+.jumbotron p {
+    color: #fff;
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 260px;
+  right: 80px;
+}
+
+
+/* Footer */
+.footer {
+  font-size: 14px;
+  background-color: black;
+  color: #fff;
+  padding: 18px;
+}
