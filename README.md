@@ -21,3 +21,8 @@ http://www.codecademy.com/snr/codebits/BKsvVv
 Junction:
 http://www.codecademy.com/snr/codebits/T6PRCo
 
+adoptly:
+http://www.codecademy.com/snr/codebits/PCeLIT
+
+headlines:
+http://www.codecademy.com/snr/codebits/6mPekI

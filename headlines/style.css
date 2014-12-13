@@ -1,0 +1,65 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Libre Baskerville', sans-serif;
+}
+
+.container {
+  width: 980px;
+  margin: 0 auto;
+}
+
+.nav {
+    margin-top: 10px;
+}
+.nav a {
+    color: #000;
+    margin-right: 20px;
+    font-size: 16px;
+}
+.jumbotron {
+  background-color: transparent;
+  height: 350px;
+}
+
+.jumbotron h2 {
+    font-size: 44px;
+}
+
+.banner {
+    height: 140px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+.cards {
+    background-color: #FFC200;
+}
+
+.cards h1 {
+    text-align: center;
+}
+
+.cards img {
+    padding: 15px;
+}
+.footer {
+    background-color: #000;
+    color: #fff;
+}
+
+.footer ul {
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+.footer ul li {
+    display: inline;
+}
+.footer img {
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
