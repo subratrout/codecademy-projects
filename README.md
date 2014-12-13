@@ -1,1 +1,23 @@
 Codecademy HTML and CSS projects.
+
+Broadway:
+http://www.codecademy.com/snr/codebits/e4D5On
+
+Innovation-cloud:
+http://www.codecademy.com/snr/codebits/V4Bqoe
+
+Move:
+http://www.codecademy.com/snr/codebits/f4rvmK
+
+redeye-photography:
+http://www.codecademy.com/snr/codebits/RLiPbW
+
+shutterbugg:
+http://www.codecademy.com/snr/codebits/TP6qa4
+
+bestbite:
+http://www.codecademy.com/snr/codebits/BKsvVv
+
+Junction:
+http://www.codecademy.com/snr/codebits/T6PRCo
+
