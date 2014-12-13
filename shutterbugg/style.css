@@ -1,0 +1,77 @@
+.container {
+  width: 928px;
+}
+
+h1, h2, p, a {
+  font-family: 'Helvetica Neue Thin', 'HelveticaNeue-Thin', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+}
+
+h1 {
+  font-size: 64px;
+  font-weight: 100;
+  margin-bottom: 20px;
+}
+
+a {
+  font-size:18px;
+  font-weight: 200;
+}
+
+.main {
+    background-image: url("http://s3.amazonaws.com/codecademy-content/projects/shutterbugg/intro.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 550px;
+    padding-top: 55px;
+}
+
+.main p {
+  font-size: 26px;
+  font-weight: 200;
+  margin-bottom: 40px;
+}
+
+.main a {
+    color:#fff;
+    background-color: rgba(238,68,95,0.9);
+    padding: 10px 20px;
+}
+.section .row {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.container p {
+    font-size: 28px;
+}
+.store {
+  text-align: center;
+  border-bottom: 0px;
+  padding-bottom:100px
+}
+
+.footer {
+  border-top: 1px solid #dbdbdb;
+  background-color: #f3f3f3;
+  padding: 20px 0px 80px;
+  color: #111;
+}
+
+.footer ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.footer li {
+  color: #999;
+  font-weight: 600;
+}
+
+.footer a {
+    color: #555;
+    font-weight: 600;
+    font-size: 16px;
+}
