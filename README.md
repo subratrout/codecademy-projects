@@ -26,3 +26,6 @@ http://www.codecademy.com/snr/codebits/PCeLIT
 
 headlines:
 http://www.codecademy.com/snr/codebits/6mPekI
+
+excursion:
+http://www.codecademy.com/snr/codebits/9zfs0G
