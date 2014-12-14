@@ -29,3 +29,6 @@ http://www.codecademy.com/snr/codebits/6mPekI
 
 excursion:
 http://www.codecademy.com/snr/codebits/9zfs0G
+
+pocketbook:
+http://www.codecademy.com/snr/codebits/IHWnlp
