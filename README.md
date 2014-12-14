@@ -35,3 +35,6 @@ http://www.codecademy.com/snr/codebits/IHWnlp
 
 bolt-network:
 http://www.codecademy.com/snr/codebits/m1Gd2D
+
+bass:
+http://www.codecademy.com/snr/codebits/bXq36D
