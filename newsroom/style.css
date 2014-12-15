@@ -1,0 +1,150 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+.header {
+    background-color: #000;
+    height: 100px;
+}
+
+.logo {
+    height: 50px;
+}
+
+.form-control {
+    background-color: black;
+    border-top: 0px;
+    border-left:0px;
+    border-right: 0px;
+    color: #fff;
+}
+
+.btn {
+    background-color: black;
+    border-top: 0px;
+    border-left:0px;
+    border-right: 0px;
+    color: #fff;
+    border-bottom: 1px blue;
+}
+
+.btn:hover {
+    color: #1a77fe;
+}
+
+/* Navigation */
+
+.navigation {
+    background-color: #152230;
+
+}
+
+
+.nav ul li {
+    list-style-type: none;
+    display: inline;
+    padding-top: 15px;
+    padding-right: 16px;
+    text-decoration: none;
+}
+
+.nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav ul li a:hover {
+    background-color: #1a77ff;
+    padding: 6px 16px;
+}
+
+/* Main */
+
+.main {
+    height: 600px;
+    background-image: url("http://s3.amazonaws.com/codecademy-content/projects/newsroom/bass-bg.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #fff;
+}
+
+.main p {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.main h4{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.main h1 {
+    font-size: 56px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+span {
+    border-bottom: 4px solid #1a77ff;
+}
+
+.supporting {
+    background-color: #f2f2f2;
+}
+.section1 {
+    margin-top: 50px;
+    background-color: #fff;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.section2 {
+    margin-top: 50px;
+    background-color: #152230;
+    color: #fff;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.section1 h1 {
+    margin-bottom: 40px;
+}
+.section2 h1 {
+    margin-bottom: 40px;
+}
+.supporting img {
+    margin-bottom: 50px;
+}
+
+.footer {
+    background-color: #000;
+    color: #fff;
+    height: 100px;
+}
+
+.footer ul {
+    margin-top: 35px;
+}
+
+.footer ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
+
+.footer ul li a {
+    color: #fff;
+}
+.footer p {
+    margin-top: 35px;
+}
