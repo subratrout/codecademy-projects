@@ -38,3 +38,6 @@ http://www.codecademy.com/snr/codebits/m1Gd2D
 
 bass:
 http://www.codecademy.com/snr/codebits/bXq36D
+
+armando-perez
+http://www.codecademy.com/snr/codebits/SesXwu
